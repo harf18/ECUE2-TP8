@@ -74,7 +74,7 @@ Modifier les classes précédentes pour utiliser l'héritage de **Thread** et no
 
 > Pensez a faire votre 1er commit !!  
 
-### Exercice 5 (bonus)
+### Exercice 5
 
 Proposer une implémentation du problème consommateurs et de producteurs. La description de Wikipedia dit 
 
